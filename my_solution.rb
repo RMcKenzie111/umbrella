@@ -38,4 +38,4 @@ puts "Let's see what the weather is in #{user_location}"
 # Display the current temperature and summary of the weather for the next hour.
 
 minute_hash = parsed_pw.fetch("minuteley", false)
-
+if
